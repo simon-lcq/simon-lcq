@@ -5,4 +5,5 @@
 - 🌱 I’m currently learning Java and C++
 
 All my current points of interest :
+
 [![](https://skillicons.dev/icons?i=astro,bash,c,cpp,cloudflare,css,bots,docker,electron,express,figma,git,graphql,html,idea,java,js,latex,linux,md,mongodb,nginx,nodejs,nuxtjs,php,py,r,react,sass,svelte,tailwind,ts,vue)]()
